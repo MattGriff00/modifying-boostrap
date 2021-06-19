@@ -1,0 +1,24 @@
+{
+  "name": "modifying-boostrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "startbootstrap-sb-admin-2": "^4.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattGriff00/modifying-boostrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattGriff00/modifying-boostrap/issues"
+  },
+  "homepage": "https://github.com/MattGriff00/modifying-boostrap#readme"
+}
